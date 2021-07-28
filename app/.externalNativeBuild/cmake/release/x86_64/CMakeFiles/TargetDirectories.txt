@@ -1,0 +1,3 @@
+D:/Users/Simon/Downloads/Clay-20190603T193051Z-001/Clay - Test - SimonBedard/Test/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/filter.dir
+D:/Users/Simon/Downloads/Clay-20190603T193051Z-001/Clay - Test - SimonBedard/Test/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+D:/Users/Simon/Downloads/Clay-20190603T193051Z-001/Clay - Test - SimonBedard/Test/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

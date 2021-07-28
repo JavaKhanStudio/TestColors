@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\Users\\Simon\\Downloads\\Clay-20190603T193051Z-001\\Clay - Test - SimonBedard\\Test\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Simon\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"D:\\Users\\Simon\\Downloads\\Clay-20190603T193051Z-001\\Clay - Test - SimonBedard\\Test\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target clean"
+  ],
+  "libraries": {
+    "filter-Debug-arm64-v8a": {
+      "artifactName": "filter",
+      "buildCommand": "C:\\Users\\Simon\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"D:\\Users\\Simon\\Downloads\\Clay-20190603T193051Z-001\\Clay - Test - SimonBedard\\Test\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target filter",
+      "abi": "arm64-v8a",
+      "output": "D:\\Users\\Simon\\Downloads\\Clay-20190603T193051Z-001\\Clay - Test - SimonBedard\\Test\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libfilter.so"
+    }
+  }
+}
